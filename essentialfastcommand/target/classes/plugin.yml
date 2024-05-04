@@ -1,0 +1,24 @@
+name: essentialfastcommand
+version: '1.0'
+main: br.com.sicro.essentialfastcommand.Main
+commands:
+  gm1:
+    description: Define o modo de jogo para Criativo.
+  gm0:
+    description: Define o modo de jogo para Sobrevivência.
+  gm2:
+    description: Define o modo de jogo para Espectador.
+  limparchuva:
+    description: Para a chuva.
+  chuva:
+    description: Coloca chuva.
+  chuvacomraio:
+    description: Coloca chuva e raio.
+  dia:
+    description: Define o tempo para dia.
+  tarde:
+    description: Define o tempo para tarde.
+  noite:
+    description: Define o tempo para noite.
+  li:
+    description: Limpa o inventário.
